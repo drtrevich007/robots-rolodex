@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Robots Rolodex React Project
+
+This project is a basic search page using create-react-app and 3rd party APIs to render robots and user information to cards. Search functionality has been added that will search by name and email fields.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
